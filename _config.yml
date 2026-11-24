@@ -1,0 +1,9 @@
+title: Leeloo
+description: Téléopération du robot Leeloo par casque VR et interface web
+lang: fr
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false
